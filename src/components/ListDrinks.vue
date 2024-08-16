@@ -20,3 +20,9 @@ const drinks = props.data
 
 const emits = defineEmits(['emitAddDrinkIndex'])
 </script>
+
+<style>
+.item-style {
+  padding: 15px;
+}
+</style>
